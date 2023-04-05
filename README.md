@@ -1,3 +1,4 @@
+# There are 10 classes and 1 Main class, 10 classes represent Tasks, in each classes there are function to each task which is explained below. In the Main class there is a switch statement and you can test all tasks in Main.
 # Task 1
 ## @findMin - a function which is finding minimum element of array using recursion 
 ## @n - number of elements of an array
